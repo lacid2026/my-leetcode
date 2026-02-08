@@ -14,12 +14,5 @@ var mergeAlternately = function(word1, word2) {
         if (word1.at(i)) mergeStr += word1.at(i);
         if (word2.at(i)) mergeStr += word2.at(i);
     }
-    // console.log(`1.mergeStr::${mergeStr}`);
-    // if (word1.length > minLength) {
-    //     mergeStr += word1.slice(minLength, word1.length);    
-    // } else if (word2.length > minLength) {
-    //     mergeStr += word2.slice(minLength, word2.length);    
-    // }
-    // console.log(`2.mergeStr::${mergeStr}`);
     return mergeStr;
 };

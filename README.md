@@ -8,6 +8,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lacid2026/my-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/lacid2026/my-leetcode/tree/master/0217-contains-duplicate) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/lacid2026/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |

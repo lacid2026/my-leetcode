@@ -24,10 +24,10 @@ var canPlaceFlowers = function(flowerbed, n) {
         }
         if (isPossible) {
             plantedPos++;
-            console.log(`isPossible[${i}]`);
+            // console.log(`isPossible[${i}]`);
             flowerbed[i] = 1;
         }    
     }
-    console.log(`plantedPos::${plantedPos}`);
+    // console.log(`plantedPos::${plantedPos}`);
     return plantedPos >= n ? true : false;
 };

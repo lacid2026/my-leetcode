@@ -4,12 +4,12 @@
  * @return {number[]}
  */
 var filter = function(arr, fn) {
-    const answer = [];
+    const filteredArr = [];
     arr.forEach((value, idx) => {
         if (fn(value, idx)) {
-            answer.push(value);
+            filteredArr.push(value);
             // console.log(value);
         }
     });
-    return answer;
+    return filteredArr;
 };

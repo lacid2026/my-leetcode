@@ -8,6 +8,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lacid2026/my-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/lacid2026/my-leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/lacid2026/my-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/lacid2026/my-leetcode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lacid2026/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/lacid2026/my-leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/lacid2026/my-leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

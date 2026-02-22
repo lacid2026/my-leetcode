@@ -1,5 +1,5 @@
 # my-leetcode
-내간 푼 leetcode 문제들 풀이 모음
+내가 푼 leetcode 문제들 풀이 모음
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

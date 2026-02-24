@@ -15,10 +15,10 @@ var compress = function(chars) {
             count++;
         }
 
-        // 문자 쓰기
+        // write char
         chars[index++] = current;
 
-        // if count > 1, 숫자를 쓰기
+        // if count > 1, write digits
         if (count > 1) {
             for (let c of count.toString()) {
                 chars[index++] = c;

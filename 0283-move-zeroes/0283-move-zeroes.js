@@ -19,10 +19,9 @@ var moveZeroes = function(nums) {
             i--;          
         }    
     }  
-    console.log(`zero_cnt::${zero_cnt}`);
-    console.log('nums::step1', nums);
+    // console.log(`zero_cnt:${zero_cnt}, nums:${nums}`, );
     for (let i=0; i< zero_cnt; i++) {
         nums.push(0);
     }    
-    // console.log('nums::step2', nums);
+    // console.log(`nums::${nums}`);
 };
